@@ -1,0 +1,8 @@
+    1  git status
+    2  git init
+    3  ls -la
+    4  git status
+    5  history
+    6  1
+    7  history >>not.txt
+    8  history >>note.txt
